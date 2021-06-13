@@ -17,6 +17,6 @@ function updateGradient() {
 }
 
 
-color1.addEventListener("input", updateGradient());
+color1.addEventListener("input", updateGradient);
 
-color2.addEventListener("input", updateGradient());
+color2.addEventListener("input", updateGradient);
